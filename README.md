@@ -40,5 +40,9 @@ npm start
 ```
 
 ## Challenges
+- Code organization: As the complexity of the calculator app increases, organizing the code and keeping it maintainable can become a challenge. It would be important to structure the code in a way that is modular, readable, and scalable.
+  
+- Handling edge cases: Calculators often have specific behavior for edge cases such as dividing by zero or handling very large numbers. Ensuring that the calculator handles these edge cases correctly can be a challenge.
+
 
 
